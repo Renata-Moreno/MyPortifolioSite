@@ -2,7 +2,7 @@
 (Em Construção) Site do meu portifólio com experiências construídas durante minha formação Front-end.
 Para visualiza-lo, [clique aqui] (renata-moreno.github.io/MyPortifolioSite/)
 
-![linha do tempo na programação](./images/timeline portifólio.PNG)
+![linha do tempo na programação](./images/timelinePortifólio.PNG)
 
 Criado com o objetivo de acompanhar minha jornada de uma Desenvolvedora Front-end na linha do tempo. Utilizei:
 * HTML
