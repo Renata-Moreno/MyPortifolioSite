@@ -1,6 +1,6 @@
 # MyPortifolioSite
 (Em Construção) Site do meu portifólio com experiências construídas durante minha formação Front-end.
-Para visualiza-lo, [clique aqui] (http://renata-moreno.github.io/MyPortifolioSite/)
+Para visualiza-lo, [clique aqui] (https://renata-moreno.github.io/MyPortifolioSite/)
 
 ![linha do tempo na programação](./images/timelinePortifólio.PNG)
 
